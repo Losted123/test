@@ -1,0 +1,12 @@
+#theRadialGauge {
+  height: 200px;
+}
+.gauge {
+  margin: 50px;
+  width: 1000px;
+}
+p {
+  font-family: "Trebuchet MS";
+  font-size: 25px;
+  margin-left: 500px;
+}
